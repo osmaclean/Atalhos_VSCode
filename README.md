@@ -11,7 +11,7 @@ Repositório para auxílio da IDE VSCode, todos os atalhos.
 ### CTRL + P = Quick Open, vá para o arquivo ...
 ### CTRL + Shift + N  = Nova janela / instância
 ### CTRL + Shift + W = Fechar janela / instância
-### CTRL +, configurações do usuário
+### CTRL + , = configurações do usuário
 ### CTRL + K CTRL + S = Atalhos de teclado
 
 <hr>
